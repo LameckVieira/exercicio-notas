@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\bin\Debug\netcoreapp3.1\Exercicio notas Alunos.exe
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\bin\Debug\netcoreapp3.1\Exercicio notas Alunos.deps.json
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\bin\Debug\netcoreapp3.1\Exercicio notas Alunos.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\bin\Debug\netcoreapp3.1\Exercicio notas Alunos.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\bin\Debug\netcoreapp3.1\Exercicio notas Alunos.dll
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\bin\Debug\netcoreapp3.1\Exercicio notas Alunos.pdb
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.dll
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.pdb
+C:\Users\Lameck\Desktop\C#\Exercicio notas Alunos\obj\Debug\netcoreapp3.1\Exercicio notas Alunos.genruntimeconfig.cache
